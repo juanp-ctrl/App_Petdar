@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042156812721",
+    "project_id": "mimascotavacunada",
+    "storage_bucket": "mimascotavacunada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042156812721:android:215a0fb3de2cb490922590",
+        "android_client_info": {
+          "package_name": "co.edu.upb.MiMascotaVacunada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042156812721-pohmgjff3gpo68hl9phr1165deg8pb7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrCMh_QxQns3zL1tR3lWF8M9oxWYbrV8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042156812721-pohmgjff3gpo68hl9phr1165deg8pb7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
